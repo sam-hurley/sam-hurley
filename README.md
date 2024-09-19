@@ -4,8 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Software Developer
 -------------------------
 
-Looking to contribute to making meaningful impacts that make people’s lives easier and improve long-term well-being through tech 🧑‍💻
+Went from driving a forklift 🚜 to driving in a pair 🍐 (still unsure which carries the most danger 😝)
+
 Recently graduated the Northcoders' software development bootcamp in JavaScript 💻
+
+Looking to contribute to making meaningful impacts that make people’s lives easier and improve long-term well-being through tech 🧑‍💻
 
 * 🌍  I'm based in Leeds, UK
 * ✉️  You can contact me at [samhurley4@hotmail.com](mailto:samhurley4@hotmail.com)
