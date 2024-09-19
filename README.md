@@ -5,6 +5,7 @@ Junior Software Developer
 -------------------------
 
 Looking to contribute to making meaningful impacts that make people’s lives easier and improve long-term well-being through tech 🧑‍💻
+Recently graduated the Northcoders' software development bootcamp in JavaScript 💻
 
 * 🌍  I'm based in Leeds, UK
 * ✉️  You can contact me at [samhurley4@hotmail.com](mailto:samhurley4@hotmail.com)
