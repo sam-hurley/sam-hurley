@@ -1,3 +1,5 @@
+![Bootcamp group photo](https://i.ibb.co/Fh1Lpps/NC11.jpg)
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sam Hurley
 ==================================================================================================================================
 
@@ -6,7 +8,7 @@ Junior Software Developer
 
 Went from driving a forklift 🚜 to driving in a pair 🍐 (still unsure which carries the most danger 😝)
 
-Recently graduated the Northcoders' software development bootcamp in JavaScript 💻
+Recently graduated the **Northcoders'** software development bootcamp in JavaScript 💻
 
 Looking to contribute to making meaningful impacts that make people’s lives easier and improve long-term well-being through tech 🧑‍💻
 
@@ -15,14 +17,14 @@ Looking to contribute to making meaningful impacts that make people’s lives ea
 * 🧠  I'm learning React Native
 * ⚡  Don't start me on philosophy 📖 ...seriously, I won't get any coding done 😆
 
-Check out my projects below:
-* Busk-a-Move - a full stack mobile app utilising React Native
+Check out my **projects** below:
+* **Busk-a-Move** - a full stack mobile app utilising React Native
 
-  Video demo: https://www.youtube.com/watch?v=rpoAqHATkwg&t=2s
-* NC News -  a full-stack CRUD news aggregation application with user interaction features such as content rating and adding comments on articles
+  [Video demo](https://www.youtube.com/watch?v=rpoAqHATkwg&t=2s)
+* **NC News** -  a full-stack CRUD news aggregation application with user interaction features such as content rating and adding comments on articles
 Tech: Express, PostgreSQL, Node.js, React
 
-  Live site: https://sam-hurley.github.io/NC-news/
+  [Live site](https://sam-hurley.github.io/NC-news/)
 
 ### Skills
 
