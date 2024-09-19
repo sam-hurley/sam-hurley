@@ -17,9 +17,11 @@ Looking to contribute to making meaningful impacts that make people’s lives ea
 
 Check out my projects below:
 * Busk-a-Move - a full stack mobile app utilising React Native
+
   Video demo: https://www.youtube.com/watch?v=rpoAqHATkwg&t=2s
 * NC News -  a full-stack CRUD news aggregation application with user interaction features such as content rating and adding comments on articles
 Tech: Express, PostgreSQL, Node.js, React
+
   Live site: https://sam-hurley.github.io/NC-news/
 
 ### Skills
