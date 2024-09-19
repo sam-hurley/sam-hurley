@@ -1,10 +1,10 @@
-![Bootcamp group photo](https://i.ibb.co/Fh1Lpps/NC11.jpg)
+<div align="center"><img align="center" src="https://i.ibb.co/Fh1Lpps/NC11.jpg"/></div>
+<!-- ![Bootcamp group photo](https://i.ibb.co/Fh1Lpps/NC11.jpg) -->
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sam Hurley
-==================================================================================================================================
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/> My name is Sam Hurley</h1>
+<!--          ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sam Hurley -->
 
-Junior Software Developer
--------------------------
+<h2 align="center">Junior Software Developer</h2>
 
 Went from driving a forklift 🚜 to driving in a pair 🍐 (still unsure which carries the most danger 😝)
 
@@ -17,11 +17,12 @@ Looking to contribute to making meaningful impacts that make people’s lives ea
 * 🧠  I'm learning React Native
 * ⚡  Don't start me on philosophy 📖 ...seriously, I won't get any coding done 😆
 
-Check out my **projects** below:
-* **Busk-a-Move** - a full stack mobile app utilising React Native
+<p align="center"> <b>Check out my projects below: </b></p>
+
+- **Busk-a-Move** - a full stack mobile app utilising React Native
 
   [Video demo](https://www.youtube.com/watch?v=rpoAqHATkwg&t=2s)
-* **NC News** -  a full-stack CRUD news aggregation application with user interaction features such as content rating and adding comments on articles
+- **NC News** -  a full-stack CRUD news aggregation application with user interaction features such as content rating and adding comments on articles
 Tech: Express, PostgreSQL, Node.js, React
 
   [Live site](https://sam-hurley.github.io/NC-news/)
