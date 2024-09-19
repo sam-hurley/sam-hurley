@@ -15,7 +15,7 @@ Looking to contribute to making meaningful impacts that make people’s lives ea
 * 🧠  I'm learning React Native
 * ⚡  Don't start me on philosophy 📖 ...seriously, I won't get any coding done 😆
 
-* Checkout my projects below:
+Checkout my projects below:
 * Busk-a-move - a full stack mobile app utilising React Native
 * NC News -  a full-stack CRUD news aggregation application with user interaction features such as content rating and adding comments on articles
 Tech: Express, PostgreSQL, Node.js, React
