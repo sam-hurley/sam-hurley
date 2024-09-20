@@ -14,7 +14,7 @@ Looking to contribute to making meaningful impacts that make people’s lives ea
 
 * 🌍  I'm based in Leeds, UK
 * ✉️  You can contact me at [samhurley4@hotmail.com](mailto:samhurley4@hotmail.com)
-* 🧠  I'm learning React Native
+* 🧠  I'm learning Next.js
 * ⚡  Don't start me on philosophy 📖 ...seriously, I won't get any coding done 😆
 
 <p align="center"> <b>Check out my projects below: </b></p>
